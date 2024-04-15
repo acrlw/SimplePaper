@@ -1,7 +1,8 @@
 #import "simplepaper.typ": *
 
 #show: project.with(
-  title: "编译原理作业",
+  title: "第二章",
+  header: "编译原理作业",
   authors: (
     (
       name: "张三",
